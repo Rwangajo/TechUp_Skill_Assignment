@@ -1,6 +1,12 @@
+public class product{
+public static voidmain(String[] args) {
+console.log;
  var sum = 0;
  for(var i in item){
  	sum += item[i].price;
  }
  console.log(sum);
+system.out.ptintln("Product bought when you have cheap money")
+}
+}
 
