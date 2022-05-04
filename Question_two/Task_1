@@ -1,3 +1,9 @@
+public class product{
+public static voidmain(String[] args) {
 for( i in item){
   if(item[i].price <100) console.log(item[i]);
  }
+system.out.ptintln("Product bought when you have cheap money")
+}
+}
+
