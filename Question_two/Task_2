@@ -1,3 +1,10 @@
-for(i in item){
+public class product{
+public static voidmain(String[] args) {
+console.log;
+ for(i in item){
  	if(item[i].price>=500) console.log(item[i]);
  }
+system.out.ptintln("Product bought when you have cheap money")
+}
+}
+
