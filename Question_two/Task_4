@@ -1,0 +1,5 @@
+ var sum2=0;
+ for(i in item){
+ 	if(item[i].price >=10) sum2 += item[i].price;
+ }
+ console.log(sum2);
